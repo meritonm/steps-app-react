@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/steps-app-react/static/css/main.b4342cd1.css",
+    "main.js": "/steps-app-react/static/js/main.c6069132.js",
+    "index.html": "/steps-app-react/index.html",
+    "main.b4342cd1.css.map": "/steps-app-react/static/css/main.b4342cd1.css.map",
+    "main.c6069132.js.map": "/steps-app-react/static/js/main.c6069132.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4342cd1.css",
+    "static/js/main.c6069132.js"
+  ]
+}
